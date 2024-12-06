@@ -1,5 +1,5 @@
 {
-	"patch.js": 2010799056,
+	"patch.js": 467651688,
 	"th155/data/event/script/futo/stage1.pl": 2115113529,
 	"th155/data/event/script/futo/stage2.pl": 831718722,
 	"th155/data/event/script/futo/stage3.pl": 1187855042,

@@ -5,7 +5,7 @@
 	],
 	"id": "view_story",
 	"servers": [
-		"https://raw.githubusercontent.com/thpatch-zh/thpatch-mod/master/view_story/"
+		"https://raw.githubusercontent.com/thpatch-zh/thpatch-mod/refs/heads/master/view_story/"
 	],
 	"title": "View all story texts without going through the game battles."
 }
